@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T03:13:35.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="jkqOlLfKYfGRzAuYnRpE" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T03:15:05.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="i1sKnUGx8pOhM2t9Jv_m" version="24.2.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="789" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jnUQC-KkqRgf_QvE6ilB-41" value="Técnico" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="154.5" y="48" width="280" height="572" as="geometry" />
+          <mxGeometry x="154.5" y="48" width="280" height="762" as="geometry" />
         </mxCell>
         <mxCell id="jnUQC-KkqRgf_QvE6ilB-42" value="App" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="434.5" y="48" width="295.5" height="762" as="geometry" />
@@ -51,7 +51,7 @@
             <mxPoint x="-104" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnUQC-KkqRgf_QvE6ilB-50" value="&amp;lt;&amp;lt;Precondição&amp;gt;&amp;gt;&lt;div&gt;Ter executado a atividade&lt;br&gt;&quot;Consulta de equipamentos em unidades&quot;&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jnUQC-KkqRgf_QvE6ilB-50" value="&amp;lt;&amp;lt;Precondição&amp;gt;&amp;gt;&lt;div&gt;Ter executado a atividade&lt;br&gt;&quot;Consulta de máquinas&quot;&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="88" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jnUQC-KkqRgf_QvE6ilB-51" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
